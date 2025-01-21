@@ -12,7 +12,7 @@
     *Express-js
     *other tools
 
-#3 - Databses
+#3 - Db
     *mysql
     *mongo-db
     *Db-Utilites 

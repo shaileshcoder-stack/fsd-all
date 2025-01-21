@@ -11,6 +11,7 @@
     *node-js
     *Express-js
     *other tools
+
 #3 - Databses
     *mysql
     *mongo-db
@@ -24,3 +25,8 @@
     *k8s
     *ansible
     *terraform
+
+#5-cloude
+    *gcp
+    *aws
+    *azure

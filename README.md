@@ -30,3 +30,11 @@
     *gcp
     *aws
     *azure
+
+
+#creaing all module 
+    defining All coponent each module
+    set Route as defined
+     and Write As Roadmap and Important Points
+     As Mentained Each component
+     

@@ -3,11 +3,13 @@ import { CommonModule } from '@angular/common';
 
 import { BackendRoutingModule } from './backend-routing.module';
 import { NodejsComponent } from './nodejs/nodejs.component';
+import { ExpressjsComponent } from './expressjs/expressjs.component';
 
 
 @NgModule({
   declarations: [
-    NodejsComponent
+    NodejsComponent,
+    ExpressjsComponent
   ],
   imports: [
     CommonModule,
